@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\csto1084\\Desktop\\FileDeiNomi.csv 2 Alberto"
+    },
+    "ConArgs": {
+      "commandName": "Executable"
+    }
+  }
+}
